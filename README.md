@@ -1,7 +1,3 @@
-Here's a revised README file for your project with the updated URL:
-
----
-
 # E-Commerce React Redux App
 
 ## Project Overview
@@ -92,7 +88,3 @@ Tailwind CSS is a utility-first CSS framework that accelerates the development o
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to reach out if you need further modifications or additions!
